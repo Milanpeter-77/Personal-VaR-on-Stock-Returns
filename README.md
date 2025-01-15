@@ -47,6 +47,8 @@ The distribution of daily returns is visualized with:
 
 These results illustrate the strengths and limitations of each method, especially in capturing tail risk.
 
+![plot](https://github.com/user-attachments/assets/65a760e5-331b-4989-8301-dedb6e4d5859)
+
 ## Insights
 - The **Historical Method** reflects past behavior but may miss extreme events.
 - The **Variance-Covariance Method** simplifies computation but assumes normality, potentially underestimating risk.
